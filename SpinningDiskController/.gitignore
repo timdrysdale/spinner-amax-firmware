@@ -1,7 +1,17 @@
-# Emacs
+g# Emacs
 *~
-*#
-.#*
+
+#Cmake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+#gTest
+runTests
+
+#arduino
+*.orig
 
 # Prerequisites
 *.d
@@ -35,3 +45,4 @@
 *.exe
 *.out
 *.app
+
